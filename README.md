@@ -67,7 +67,7 @@ The dataset contains rich information about football players including:
   - Finalized the model for predictions
 
 ## Technologies Used
-- Python 3.9
+- Python
 - Key libraries: pandas, numpy, scikit-learn, PyCaret
 - Visualization: matplotlib, seaborn
 
