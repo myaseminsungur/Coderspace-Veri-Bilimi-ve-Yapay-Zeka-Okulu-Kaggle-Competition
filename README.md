@@ -80,3 +80,11 @@ The analysis produced a classification model capable of predicting whether a pla
 - Ensemble methods combining multiple models
 - More extensive hyperparameter tuning
 - Integration of additional external data sources 
+
+## Data Files
+Due to size limitations, the following data files are not included in this repository:
+- train.csv
+- test.csv
+- sample_submission.csv
+
+Please download these files from the original Kaggle competition page. 
