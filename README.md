@@ -1,4 +1,4 @@
-# Football Player Value Prediction Project
+# Coderspace Veri Bilimi ve Yapay Zeka Kaggle Project
 
 ## Competition Overview
 This project is part of the Coderspace Data Science and AI School (Veri Bilimi ve Yapay Zeka Okulu)'s final phase Kaggle competition. The goal is to predict which football players' market values will increase based on their attributes and characteristics.
