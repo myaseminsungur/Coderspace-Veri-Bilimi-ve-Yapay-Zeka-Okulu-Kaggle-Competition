@@ -87,4 +87,4 @@ Due to size limitations, the following data files are not included in this repos
 - test.csv
 - sample_submission.csv
 
-Please download these files from the original Kaggle competition page. 
+Please download these files from the original Kaggle competition page.
